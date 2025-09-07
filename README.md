@@ -52,4 +52,10 @@ This project investigates whether **cause-related product consumption** (e.g., e
 ---
 
 ## Repository Structure
+├── README.md
+├── thesis.pdf
+├── figures/
+│ └── theoretical_framework.png
+└── results/
+└── key_statistics.csv(will be updated soon)
 
